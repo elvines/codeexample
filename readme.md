@@ -47,4 +47,6 @@ but it's possible to seed it using ./artisan migrate --seed --env=testing
     2. api/customer/subscription/update/dayIteration / {"subscription":{"id":1,"day_iteration":60}}
     3. api/customer/subscription/update/nextOrderDate / {"subscription":{"id":1}}
     
-18. I guess that's it. Thank you for your time and I'm waiting for the review if you would like. 
+18. Also check /recursive_categories.php file / It's a standalone class to handle tree like data structures such as categories
+
+19. I guess that's it. Thank you for your time and I'm waiting for the review if you would like. 
